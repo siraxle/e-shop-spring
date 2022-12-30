@@ -5,7 +5,6 @@ import com.axle.springeshop.dto.ProductDTO;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
-import org.springframework.security.access.method.P;
 
 import java.util.List;
 
